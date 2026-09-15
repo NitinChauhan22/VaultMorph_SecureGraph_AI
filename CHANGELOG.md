@@ -3,12 +3,10 @@
 All notable public releases of SecureGraph AI Desktop Community Edition. Dates are release
 dates; internal development history is not published here.
 
-## [Unreleased]
+## [1.0.0] - 2026-09-15
 
-Initial public release preparation — no binaries published to this repository's Releases
-page yet.
+First public release.
 
-### Included at first public release
 - SAST (Semgrep + OpenGrep) and cross-function/cross-file Taint Analysis
 - SCA (OSV-Scanner), Secrets Scanning (Gitleaks, with optional live validation),
   IaC Security (Checkov), Container Security (Trivy), DAST (OWASP ZAP)
@@ -18,3 +16,6 @@ page yet.
 - Free, optional device registration (no trial expiry, no tiers, no scan/report/export gating)
 - Local-only AI mode by default, with an AI Context Firewall and AI Audit Log when an
   external AI provider is enabled
+
+Installers are signed with VaultMorph's code-signing certificate. See
+[CHECKSUMS.md](CHECKSUMS.md) for SHA256 hashes to verify your download.

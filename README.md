@@ -44,7 +44,8 @@ Audit Log.
 
 ## Getting started
 
-1. Download the latest installer from the [Releases](../../releases) page.
+1. Download the latest installer from the [Releases](../../releases) page and verify its
+   SHA256 against [CHECKSUMS.md](CHECKSUMS.md).
 2. Install the scanner engine dependencies you plan to use (Semgrep, OSV-Scanner, Gitleaks,
    Checkov, Trivy, OpenGrep, OWASP ZAP) — see [docs/ADMIN_GUIDE.md](docs/ADMIN_GUIDE.md) §1–2
    for exact install commands per engine.
