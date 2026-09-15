@@ -55,9 +55,13 @@ until that review is done (see the note at the end of this file).
    must uninstall and stop using the Software.
 
 10. Governing law
-    [CONFIRM: governing law / jurisdiction — not yet specified]
+    This Agreement is governed by the laws of India, without regard to conflict-of-law
+    principles. The courts of Hyderabad, Telangana shall have exclusive jurisdiction over any
+    dispute arising out of or relating to this Agreement. (Set from the founder's operating
+    location, matching current business practice; revisit if VaultMorph later incorporates as a
+    registered entity in a different state or country.)
 
 ---
-Note: this is a starting draft, not legal advice, and has two open items — clause 10's
-jurisdiction, and a general pass by qualified counsel before this is relied on for a real
-public release. Flagged here rather than silently finalized.
+Note: this is a starting draft, not legal advice. Clause 10 above is a reasonable default given
+where VaultMorph currently operates from, not a substitute for review by qualified counsel —
+have this pass reviewed before relying on it for a commercial or high-volume public release.

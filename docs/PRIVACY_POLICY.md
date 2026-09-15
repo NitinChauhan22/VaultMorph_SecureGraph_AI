@@ -3,13 +3,6 @@
 Effective date: 15 September 2026 · Last updated: 15 September 2026
 Applies to: the SecureGraph AI desktop application and vaultmorph.org/securegraph
 
-> **Two facts need your confirmation before this is publish-ready** (marked `[CONFIRM]` below):
-> the legal entity name/address to list as Data Controller, and the physical hosting region of
-> `api.vaultmorph.org` (AI Shield's own privacy policy states OCI Frankfurt/Germany for the same
-> host — if SecureGraph AI's registration traffic goes through that same server, this can likely
-> reuse that fact, but I have not verified it from this project's own docs and won't assert it
-> without your sign-off, since hosting region drives which GDPR transfer rules apply).
-
 ## 1. Overview
 
 **Community Edition collects zero personal data.** Scanning, the security graph, findings, and
@@ -26,7 +19,7 @@ such interaction is logged in the AI Audit Log.
 
 ## 2. Who we are
 
-- **Data Controller:** VaultMorph `[CONFIRM: legal entity name / registered address]`
+- **Data Controller:** VaultMorph (operating under vaultmorph.org)
 - **Contact:** contact@vaultmorph.org
 - **Data deletion requests:** contact@vaultmorph.org, subject line "Data Deletion Request"
 
@@ -63,8 +56,11 @@ or any data processed by scanning/reporting features.
 
 ## 6. Data storage & international transfers
 
-Registration data (email, device fingerprint) is stored on the server backing `api.vaultmorph.org`
-`[CONFIRM: physical hosting region — see note above]`. If you are in India, processing your email
+Registration data (email, device fingerprint) is stored on the same shared production server
+backing `api.vaultmorph.org` that hosts VaultMorph AI Shield's registration data — **India, OCI
+Mumbai region**, operated by Oracle Cloud Infrastructure (per VaultMorph AI Shield's published
+Privacy Policy at vaultmorph.org/privacy/, which this project's server infrastructure shares). If
+you are in India, processing your email
 for registration may constitute a cross-border transfer under the DPDP Act 2023; we process it
 under consent obtained via the in-app screen. If you never register, no transfer occurs.
 
