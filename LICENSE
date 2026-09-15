@@ -1,0 +1,63 @@
+SecureGraph AI — Desktop Community Edition
+End-User License Agreement (EULA)
+
+Copyright (c) 2026 VaultMorph. All rights reserved.
+
+DRAFT — this license has not yet been reviewed by legal counsel. Do not treat it as final
+until that review is done (see the note at the end of this file).
+
+1. Grant of license
+   Subject to the terms below, VaultMorph grants you a free, non-exclusive, non-transferable,
+   revocable license to install and use the SecureGraph AI Desktop Community Edition
+   ("Software"), in binary/compiled form only, for your own internal use — personal,
+   professional, or organizational.
+
+2. Restrictions
+   You may not, and may not permit others to:
+   a. copy, distribute, sublicense, sell, rent, lease, or otherwise transfer the Software or
+      any release artifact, in whole or in part, to any third party;
+   b. reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code
+      of the Software, except to the extent such restriction is prohibited by applicable law;
+   c. remove, obscure, or alter any proprietary notice, trademark, or branding on or in the
+      Software;
+   d. use the Software to build a competing product or service.
+
+3. No source code
+   This repository publishes documentation and compiled releases only. No source code, source
+   license, or right to source code is granted under this Agreement.
+
+4. Ownership
+   The Software is licensed, not sold. VaultMorph retains all right, title, and interest in
+   and to the Software, including all intellectual property rights.
+
+5. Third-party components
+   The Software invokes certain third-party, separately-licensed tools as external
+   subprocesses (not bundled into or linked with the Software binary). See NOTICES.md for the
+   list and their licenses. Your use of those tools, where you choose to install them, is
+   governed by their own respective licenses.
+
+6. Privacy
+   Your use of the Software is also subject to the Privacy Policy at
+   docs/PRIVACY_POLICY.md (and published at vaultmorph.org/securegraph/privacy).
+
+7. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NONINFRINGEMENT.
+
+8. Limitation of liability
+   IN NO EVENT SHALL VAULTMORPH BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+   IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH
+   THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. Termination
+   This license terminates automatically if you breach any term above. Upon termination, you
+   must uninstall and stop using the Software.
+
+10. Governing law
+    [CONFIRM: governing law / jurisdiction — not yet specified]
+
+---
+Note: this is a starting draft, not legal advice, and has two open items — clause 10's
+jurisdiction, and a general pass by qualified counsel before this is relied on for a real
+public release. Flagged here rather than silently finalized.
